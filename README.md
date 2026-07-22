@@ -3,7 +3,7 @@
 
   # Olá, eu sou Catharina Napoleão 👋
 
-  ### 🧪 QA em formação | Formada em Análise e Desenvolvimento de Sistemas
+  ### 🧪 QA em formação
 </div>
 
 ---
