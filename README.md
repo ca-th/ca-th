@@ -85,8 +85,8 @@
 <img src="https://img.shields.io/badge/Gemini_API-10B981?style=flat-square&logo=googlegemini&logoColor=white" />
 </p>
 <br>
-<a href="https://github.com/ca-th?tab=repositories" target="_blank">
-<img src="https://img.shields.io/badge/EXPLORAR_PROJETO-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Explorar QualLer" />
+<a href="https://qual-ler.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/ACESSAR_PROJETO-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Acessar QualLer" />
 </a>
 </td>
 <td width="50%" align="center" valign="top">
@@ -212,25 +212,8 @@
 
   <br>
 
-  <h3>⚡ Vamos conversar?</h3>
-
-  <p>
-    Aberta a oportunidades e colaborações em <strong>Engenharia de IA aplicada</strong>, <strong>Desenvolvimento Front-end</strong> <br>
-    e <strong>Qualidade & Automação de Testes</strong>.
-  </p>
-
-  <br>
-
-  <p>
-    <a href="mailto:catharinannapoleao@gmail.com">
-      <img src="https://img.shields.io/badge/EMAIL-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.linkedin.com/in/catharina-napoleao-725709202/" target="_blank">
-      <img src="https://img.shields.io/badge/LINKEDIN-0F766E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
-
-  <br>
-  <code>✦ ✧ ⚡ ✧ ✦</code>
-
-</div>
+  <!-- Quando ativar a Action da cobrinha, apague as linhas "<!--" e "-->" abaixo -->
+  <!--
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ca-th/ca-th/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="
