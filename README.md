@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=720&lines=QA+Automation+%26+Desenvolvimento+com+IA.;Qualidade+de+Software%2C+Front-end+e+Dados.;Interfaces+inteligentes+e+c%C3%B3digo+confi%C3%A1vel." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=720&lines=QA+Automation+%26+Desenvolvimento+com+IA.;Qualidade+de+Software%2C+Front-end+e+IA.;Interfaces+inteligentes+e+c%C3%B3digo+confi%C3%A1vel." alt="Typing SVG" />
   </a>
 
   <p>
@@ -74,7 +74,7 @@
 <h3>✦ QualLer</h3>
 <p><strong>Angular · Supabase · Google Gemini API</strong></p>
 <p>Aplicação web de recomendação literária inteligente baseada em tropos narrativos, histórico de leitura e autores.</p>
-<p>Integração com LLM para curadoria personalizada, persistência de dados no Supabase e grupos de discussão.</p>
+<p>Integração com LLM para curadoria personalizada, persistência no Supabase e grupos de discussão.</p>
 <p>
 <img src="https://img.shields.io/badge/Angular-10B981?style=flat-square&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-0F766E?style=flat-square&logo=supabase&logoColor=white" />
@@ -145,13 +145,13 @@
 
   <br>
 
-  <h4>✦ IA, Dados & Automação</h4>
+  <h4>✦ Inteligência Artificial & Automação</h4>
   <p>
     <img src="https://img.shields.io/badge/LLM_APIs_(GEMINI_%2F_OPENAI)-10B981?style=for-the-badge" />
     <img src="https://img.shields.io/badge/AI_EVALS_%26_PROMPT_ENGINEERING-0F766E?style=for-the-badge" />
     <img src="https://img.shields.io/badge/CURSOR_AI-10B981?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/SUPABASE_%26_POSTGRESQL-0F766E?style=for-the-badge&logo=supabase&logoColor=white" />
-    <img src="https://img.shields.io/badge/N8N_WORKFLOWS-10B981?style=for-the-badge&logo=n8n&logoColor=white" />
+    <img src="https://img.shields.io/badge/N8N_WORKFLOWS-0F766E?style=for-the-badge&logo=n8n&logoColor=white" />
+    <img src="https://img.shields.io/badge/SUPABASE_%26_POSTGRESQL-10B981?style=for-the-badge&logo=supabase&logoColor=white" />
     <img src="https://img.shields.io/badge/DOCKER-0F766E?style=for-the-badge&logo=docker&logoColor=white" />
   </p>
 
@@ -185,7 +185,7 @@
 
   <p>
     Atuação híbrida unindo <strong>Qualidade de Software</strong> e <strong>Desenvolvimento assistido por IA (Cursor)</strong>: <br>
-    estruturação de testes automatizados com Cypress e Playwright (padrão POM), validação de dados no Supabase <br>
+    estruturação de testes automatizados com Cypress e Playwright (padrão POM), validações no Supabase <br>
     e implementação de funcionalidades inteligentes no sistema, incluindo <strong>interação por voz</strong> e <strong>assistente virtual de ajuda</strong>.
   </p>
 
@@ -207,16 +207,6 @@
 <div align="center">
 
   <br>
-
-  <!-- Quando ativar a Action da cobrinha, apague as linhas "<!--" e "-->" abaixo -->
-  <!--
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ca-th/ca-th/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ca-th/ca-th/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ca-th/ca-th/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-  <br><br>
-  -->
 
   <h3>✦ Vamos conversar?</h3>
 
