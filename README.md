@@ -7,25 +7,21 @@
 
   <!-- Título Animado -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=10B981&center=true&vCenter=true&width=680&lines=QA+Engineer+%26+AI-Driven+Developer.;Qualidade%2C+Front-end+e+Engenharia+de+IA.;Automatizando+fluxos+e+validando+LLMs." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=10B981&center=true&vCenter=true&width=680&lines=QA+Automation+%26+Desenvolvimento+com+IA.;Qualidade+de+Software%2C+Front-end+e+Dados.;Construindo+interfaces+inteligentes+e+confi%C3%A1veis." alt="Typing SVG" />
   </a>
 
   <p>
-    <strong>✦ QA Automation · Front-end Development · Supabase · AI Engineering ✦</strong>
+    <strong>✦ QA Automation · Front-end · Supabase · Inteligência Artificial ✦</strong>
   </p>
 
   <p>
-    <em>Building intelligent web apps, automating flows, ensuring quality.</em> ⚡🧪
+    <em>Automação de testes, desenvolvimento web e integração de IA na prática.</em> ⚡🧪
   </p>
 
   <!-- Botões de Ação Principais -->
   <p>
-    <a href="https://www.linkedin.com/in/catharina-napoleao-725709202/">
-      <img src="https://img.shields.io/badge/LINKEDIN-0F766E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:catharinannapoleao@gmail.com">
-      <img src="https://img.shields.io/badge/CONTATO-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
+    [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0F766E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catharina-napoleao-725709202/)
+    [![CONTATO](https://img.shields.io/badge/CONTATO-10B981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:catharinannapoleao@gmail.com)
   </p>
 
   <br>
@@ -47,13 +43,13 @@
 
   <p>
     Graduanda em <strong>Ciência da Computação (IFB)</strong> e formada em <strong>Análise e Desenvolvimento de Sistemas (IESB)</strong>, <br>
-    atuo com <strong>Automação de Testes (QA)</strong>, <strong>Desenvolvimento Front-end</strong> e <strong>Banco de Dados (Supabase)</strong>.
+    atuo na interseção entre <strong>Qualidade de Software (QA)</strong>, <strong>Desenvolvimento Front-end</strong> e <strong>Banco de Dados (Supabase)</strong>.
   </p>
 
   <p>
-    Atualmente, direciono meus estudos e projetos para <strong>Engenharia de IA aplicada</strong> — integrando LLMs, <br>
-    saídas estruturadas, busca vetorial (RAG com <code>pgvector</code>) e <strong>validação de qualidade para IA (AI Evals)</strong> <br>
-    para construir aplicações web confiáveis, inteligentes e livres de alucinações críticas.
+    Atualmente, foco meus estudos e projetos em <strong>Engenharia de IA aplicada</strong> — explorando integração de LLMs, <br>
+    interfaces assistidas por voz, agentes de ajuda e <strong>validação automatizada de IA (AI Evals)</strong> para criar produtos <br>
+    mais inteligentes e sem falhas críticas.
   </p>
 
   <br>
@@ -61,9 +57,9 @@
   <!-- Tags de Especialidade -->
   <p>
     <img src="https://img.shields.io/badge/QA_Automation_%26_Evals-10B981?style=flat-square" />
-    <img src="https://img.shields.io/badge/Front--end_(Angular_%2F_React)-0F766E?style=flat-square" />
+    <img src="https://img.shields.io/badge/Front--end_(Angular_%2F_TypeScript)-0F766E?style=flat-square" />
     <img src="https://img.shields.io/badge/Supabase_%26_SQL-10B981?style=flat-square" />
-    <img src="https://img.shields.io/badge/AI_Engineering_%26_RAG-0F766E?style=flat-square" />
+    <img src="https://img.shields.io/badge/AI_Engineering_%26_LLMs-0F766E?style=flat-square" />
   </p>
 
 </div>
@@ -82,10 +78,10 @@
       <h3>✦ QualLer</h3>
       <p><strong>Angular · Supabase · Google Gemini API</strong></p>
       <p>
-        Plataforma web de recomendação literária inteligente baseada em tropos narrativos, histórico de leitura e autores.
+        Aplicação web de recomendação literária inteligente baseada em tropos narrativos, histórico de leitura e autores.
       </p>
       <p>
-        Integração com LLM para curadoria personalizada, persistência de dados no Supabase e grupos de discussão entre leitores.
+        Integração com LLM para curadoria personalizada, persistência de dados no Supabase e grupos de discussão.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Angular-10B981?style=flat-square&logo=angular&logoColor=white" />
@@ -93,33 +89,12 @@
         <img src="https://img.shields.io/badge/Gemini_API-10B981?style=flat-square&logo=googlegemini&logoColor=white" />
       </p>
       <br>
-      <a href="https://github.com/ca-th">
-        <img src="https://img.shields.io/badge/EXPLORAR_PROJETO-0F766E?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
+
+[![EXPLORAR_PROJETO](https://img.shields.io/badge/EXPLORAR_PROJETO-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ca-th?tab=repositories)
+
     </td>
     <td width="50%" align="center" valign="top">
-      <h3>⚡ Historetec</h3>
-      <p><strong>React · TypeScript · Supabase · AI Workflows</strong></p>
-      <p>
-        Aplicação SaaS voltada à geração assistida de conteúdo com variações de tom, regeneração contextual e assistente integrado.
-      </p>
-      <p>
-        Arquitetura orientada a componentes com controle de estado, validação de esquemas e banco relacional no Supabase.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/React-0F766E?style=flat-square&logo=react&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-10B981?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/AI_Integration-0F766E?style=flat-square" />
-      </p>
-      <br>
-      <a href="https://github.com/ca-th">
-        <img src="https://img.shields.io/badge/EXPLORAR_PROJETO-10B981?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>✦ Cypress Automation</h3>
+      <h3>⚡ Cypress Automation</h3>
       <p><strong>Automação E2E · Testes de API · Padrão POM</strong></p>
       <p>
         Suíte de testes automatizados com abordagem híbrida (API + UI) para validar fluxos críticos de ponta a ponta.
@@ -133,9 +108,30 @@
         <img src="https://img.shields.io/badge/API_Testing-10B981?style=flat-square" />
       </p>
       <br>
-      <a href="https://github.com/ca-th/portfolio-qa-cypres">
-        <img src="https://img.shields.io/badge/EXPLORAR_PROJETO-0F766E?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
+
+[![EXPLORAR_PROJETO](https://img.shields.io/badge/EXPLORAR_PROJETO-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ca-th/portfolio-qa-cypres)
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>✦ Convitou</h3>
+      <p><strong>Angular · Tailwind CSS · UI Interativa</strong></p>
+      <p>
+        Estúdio web para criação de convites digitais interativos e páginas personalizadas para eventos.
+      </p>
+      <p>
+        Foco em responsividade, experiência do usuário fluida e arquitetura modular de componentes.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Angular-0F766E?style=flat-square&logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-10B981?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-0F766E?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
+      <br>
+
+[![EXPLORAR_PROJETO](https://img.shields.io/badge/EXPLORAR_PROJETO-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ca-th?tab=repositories)
+
     </td>
     <td width="50%" align="center" valign="top">
       <h3>⚡ Sistema de Biblioteca</h3>
@@ -152,9 +148,9 @@
         <img src="https://img.shields.io/badge/Data_Integrity-0F766E?style=flat-square" />
       </p>
       <br>
-      <a href="https://github.com/ca-th/Sistema-Bibliotecario-Faculdade">
-        <img src="https://img.shields.io/badge/EXPLORAR_PROJETO-10B981?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
+
+[![EXPLORAR_PROJETO](https://img.shields.io/badge/EXPLORAR_PROJETO-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ca-th/Sistema-Bibliotecario-Faculdade)
+
     </td>
   </tr>
 </table>
@@ -169,13 +165,13 @@
 
   <br>
 
-  <h4>⚡ IA, Dados & Back-end</h4>
+  <h4>⚡ IA, Dados & Automação</h4>
   <p>
     <img src="https://img.shields.io/badge/LLM_APIs_(GEMINI_%2F_OPENAI)-10B981?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/PROMPT_ENGINEERING_%26_EVALS-0F766E?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/SUPABASE_%26_POSTGRESQL-10B981?style=for-the-badge&logo=supabase&logoColor=white" />
-    <img src="https://img.shields.io/badge/N8N_WORKFLOWS-0F766E?style=for-the-badge&logo=n8n&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%23_%2F_.NET-10B981?style=for-the-badge&logo=dotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/AI_EVALS_%26_PROMPT_ENGINEERING-0F766E?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/CURSOR_AI-10B981?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/SUPABASE_%26_POSTGRESQL-0F766E?style=for-the-badge&logo=supabase&logoColor=white" />
+    <img src="https://img.shields.io/badge/N8N_WORKFLOWS-10B981?style=for-the-badge&logo=n8n&logoColor=white" />
     <img src="https://img.shields.io/badge/DOCKER-0F766E?style=for-the-badge&logo=docker&logoColor=white" />
   </p>
 
@@ -189,8 +185,7 @@
     <img src="https://img.shields.io/badge/REACT_%26_TAILWIND-10B981?style=for-the-badge&logo=react&logoColor=white" />
     <img src="https://img.shields.io/badge/CYPRESS-0F766E?style=for-the-badge&logo=cypress&logoColor=white" />
     <img src="https://img.shields.io/badge/PLAYWRIGHT-10B981?style=for-the-badge&logo=playwright&logoColor=white" />
-    <img src="https://img.shields.io/badge/POSTMAN_%26_BRUNO-0F766E?style=for-the-badge&logo=postman&logoColor=white" />
-    <img src="https://img.shields.io/badge/JIRA_%26_GIT-10B981?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/JIRA_%26_GIT-0F766E?style=for-the-badge&logo=git&logoColor=white" />
   </p>
 
 </div>
@@ -205,20 +200,20 @@
 
   <br>
 
-  <h3>⚡ Estagiária em Automação de Testes (QA)</h3>
+  <h3>⚡ Estagiária em QA & Desenvolvimento com IA</h3>
   <p><strong>SENAI/DF · Atual</strong></p>
 
   <p>
-    Atuação no ciclo completo de qualidade (STLC) em ambiente ágil (Scrum): arquitetura e automação de testes web <br>
-    com Cypress e Playwright (padrão POM), validação de APIs, consultas SQL no Supabase para conferência de dados <br>
-    e gestão de defeitos no Jira.
+    Atuação híbrida unindo <strong>Qualidade de Software</strong> e <strong>Desenvolvimento assistido por IA (Cursor)</strong>: <br>
+    estruturação de testes automatizados com Cypress e Playwright (padrão POM), validação de dados no Supabase <br>
+    e implementação de funcionalidades inteligentes no sistema, incluindo <strong>interação por voz</strong> e <strong>assistente virtual de ajuda</strong>.
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/Automação_E2E-10B981?style=flat-square" />
-    <img src="https://img.shields.io/badge/Testes_de_API_%26_SQL-0F766E?style=flat-square" />
-    <img src="https://img.shields.io/badge/Arquitetura_POM-10B981?style=flat-square" />
-    <img src="https://img.shields.io/badge/Scrum_%26_Jira-0F766E?style=flat-square" />
+    <img src="https://img.shields.io/badge/Automação_E2E_(Cypress_%2F_Playwright)-10B981?style=flat-square" />
+    <img src="https://img.shields.io/badge/Cursor_AI_%26_Front--end-0F766E?style=flat-square" />
+    <img src="https://img.shields.io/badge/Voice_UI_%26_Chatbot-10B981?style=flat-square" />
+    <img src="https://img.shields.io/badge/Supabase_%26_Jira-0F766E?style=flat-square" />
   </p>
 
 </div>
@@ -227,28 +222,33 @@
 
 ---
 
-<img src="https://img.shields.io/badge/05%20%2F%20CONTATO-0F766E?style=for-the-badge" alt="05 / Contato" />
+<img src="https://img.shields.io/badge/05%20%2F%20ATIVIDADE%20%26%20CONTATO-0F766E?style=for-the-badge" alt="05 / Contato" />
 
 <div align="center">
 
   <br>
 
+  <!-- Animação da Cobrinha (Funciona após ativar o GitHub Action abaixo) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ca-th/ca-th/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ca-th/ca-th/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ca-th/ca-th/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+
+  <br><br>
+
   <h3>⚡ Vamos conversar?</h3>
 
   <p>
-    Aberta a oportunidades e colaborações em <strong>Engenharia de IA aplicada</strong>, <strong>Desenvolvimento Full-stack / Front-end</strong> <br>
-    e <strong>Engenharia de Qualidade & Automação</strong>.
+    Aberta a oportunidades e colaborações em <strong>Engenharia de IA aplicada</strong>, <strong>Desenvolvimento Front-end</strong> <br>
+    e <strong>Qualidade & Automação de Testes</strong>.
   </p>
 
   <br>
 
   <p>
-    <a href="mailto:catharinannapoleao@gmail.com">
-      <img src="https://img.shields.io/badge/EMAIL-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.linkedin.com/in/catharina-napoleao-725709202/">
-      <img src="https://img.shields.io/badge/LINKEDIN-0F766E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
+    [![EMAIL](https://img.shields.io/badge/EMAIL-10B981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:catharinannapoleao@gmail.com)
+    [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0F766E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catharina-napoleao-725709202/)
   </p>
 
   <br>
