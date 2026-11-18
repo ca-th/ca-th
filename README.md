@@ -1,9 +1,5 @@
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=ca-th&label=VISITAS&color=10B981&style=flat-square" alt="Visitas" />
-
-  <br><br>
-
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=720&lines=QA+Automation+%26+Desenvolvimento+com+IA.;Qualidade+de+Software%2C+Front-end+e+Dados.;Interfaces+inteligentes+e+c%C3%B3digo+confi%C3%A1vel." alt="Typing SVG" />
   </a>
@@ -13,7 +9,7 @@
   </p>
 
   <p>
-    <em>Automação de testes, desenvolvimento web e integração de IA na prática.</em> ⚡🧪
+    <em>Automação de testes, desenvolvimento web e integração de IA na prática.</em>
   </p>
 
   <p>
@@ -26,7 +22,7 @@
   </p>
 
   <br>
-  <code>✦ ✧ ⚡ ✦ ⚡ ✧ ✦</code>
+  <code>✦ ✧ ✦ ✧ ✦ ✧ ✦</code>
 
 </div>
 
@@ -90,7 +86,7 @@
 </a>
 </td>
 <td width="50%" align="center" valign="top">
-<h3>⚡ Cypress Automation</h3>
+<h3>✧ Cypress Automation</h3>
 <p><strong>Automação E2E · Testes de API · Padrão POM</strong></p>
 <p>Suíte de testes automatizados com abordagem híbrida (API + UI) para validar fluxos críticos de ponta a ponta.</p>
 <p>Uso de dados dinâmicos para isolar cenários, evitar conflitos de execução e garantir estabilidade na regressão.</p>
@@ -107,22 +103,22 @@
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
-<h3>✦ Convitou</h3>
-<p><strong>Angular · Tailwind CSS · UI Interativa</strong></p>
-<p>Estúdio web para criação de convites digitais interativos e páginas personalizadas para eventos.</p>
-<p>Foco em responsividade, experiência do usuário fluida e arquitetura modular de componentes.</p>
+<h3>✦ PontoWeb</h3>
+<p><strong>Controle de Ponto · Front-end · Supabase</strong></p>
+<p>Aplicação web para registro e acompanhamento de jornada de trabalho com interface responsiva e intuitiva.</p>
+<p>Cálculo automatizado de horas, histórico de marcações e validação de regras de jornada em tempo real.</p>
 <p>
-<img src="https://img.shields.io/badge/Angular-0F766E?style=flat-square&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-10B981?style=flat-square&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-0F766E?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-10B981?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-0F766E?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 <br>
-<a href="https://github.com/ca-th?tab=repositories" target="_blank">
-<img src="https://img.shields.io/badge/EXPLORAR_PROJETO-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Explorar Convitou" />
+<a href="https://ponto-web-ten.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/ACESSAR_PROJETO-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Acessar PontoWeb" />
 </a>
 </td>
 <td width="50%" align="center" valign="top">
-<h3>⚡ Sistema de Biblioteca</h3>
+<h3>✧ Sistema de Biblioteca</h3>
 <p><strong>Banco de Dados · Regras de Negócio · Integridade</strong></p>
 <p>Sistema de gerenciamento bibliotecário com regras de negócio implementadas diretamente na camada de dados.</p>
 <p>Aplicação de Triggers e Stored Procedures com foco em consistência, rastreabilidade e validação de restrições.</p>
@@ -149,7 +145,7 @@
 
   <br>
 
-  <h4>⚡ IA, Dados & Automação</h4>
+  <h4>✦ IA, Dados & Automação</h4>
   <p>
     <img src="https://img.shields.io/badge/LLM_APIs_(GEMINI_%2F_OPENAI)-10B981?style=for-the-badge" />
     <img src="https://img.shields.io/badge/AI_EVALS_%26_PROMPT_ENGINEERING-0F766E?style=for-the-badge" />
@@ -161,7 +157,7 @@
 
   <br>
 
-  <h4>✦ Front-end & Qualidade (QA)</h4>
+  <h4>✧ Front-end & Qualidade (QA)</h4>
   <p>
     <img src="https://img.shields.io/badge/TYPESCRIPT-0F766E?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/JAVASCRIPT-10B981?style=for-the-badge&logo=javascript&logoColor=white" />
@@ -184,7 +180,7 @@
 
   <br>
 
-  <h3>⚡ Estagiária em QA & Desenvolvimento com IA</h3>
+  <h3>✦ Estagiária em QA & Desenvolvimento com IA</h3>
   <p><strong>SENAI/DF · Atual</strong></p>
 
   <p>
@@ -216,4 +212,31 @@
   <!--
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ca-th/ca-th/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ca-th/ca-th/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ca-th/ca-th/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+  <br><br>
+  -->
+
+  <h3>✦ Vamos conversar?</h3>
+
+  <p>
+    Aberta a oportunidades e colaborações em <strong>Engenharia de IA aplicada</strong>, <strong>Desenvolvimento Front-end</strong> <br>
+    e <strong>Qualidade & Automação de Testes</strong>.
+  </p>
+
+  <br>
+
+  <p>
+    <a href="mailto:catharinannapoleao@gmail.com">
+      <img src="https://img.shields.io/badge/EMAIL-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/catharina-napoleao-725709202/" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-0F766E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+
+  <br>
+  <code>✦ ✧ ✦ ✧ ✦</code>
+
+</div>
