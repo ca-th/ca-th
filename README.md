@@ -126,9 +126,7 @@ mindmap
       Cursor
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FF5C8A,100:8B5CF6" width="100%" height="3" alt="" />
-
-<img src="https://img.shields.io/badge/04%20%2F%20PROJETOS%20EM%20DESTAQUE-8B5CF6?style=for-the-badge" alt="04 / Projetos em destaque" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FF5C8A,100:8B5CF6" width="100%" height="3" alt="" /><img src="https://img.shields.io/badge/04%20%2F%20PROJETOS%20EM%20DESTAQUE-8B5CF6?style=for-the-badge" alt="04 / Projetos em destaque" />
 
 <br><br>
 
@@ -156,3 +154,145 @@ mindmap
 </td>
 </tr>
 <tr>
+<td width="50%" align="center" valign="top">
+<h3>✧ QualLer</h3>
+<p><strong>Angular · Supabase · Google Gemini API</strong></p>
+<p>Aplicação web de recomendação literária inteligente baseada em tropos narrativos, histórico de leitura e autores.</p>
+<p>Integração com LLM para curadoria personalizada, persistência no Supabase e grupos de discussão.</p>
+<p>
+<img src="https://img.shields.io/badge/Angular-FF5C8A?style=flat-square&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-8B5CF6?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini_API-FF5C8A?style=flat-square&logo=googlegemini&logoColor=white" />
+</p>
+<br>
+<a href="https://qual-ler.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/ACESSAR_PROJETO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Acessar QualLer" />
+</a>
+</td>
+<td width="50%" align="center" valign="top">
+<h3>✦ Cypress Automation</h3>
+<p><strong>Automação E2E · Testes de API · Padrão POM</strong></p>
+<p>Suíte de testes automatizados com abordagem híbrida (API + UI) para validar fluxos críticos de ponta a ponta.</p>
+<p>Uso de dados dinâmicos para isolar cenários, evitar conflitos de execução e garantir estabilidade na regressão.</p>
+<p>
+<img src="https://img.shields.io/badge/Cypress-8B5CF6?style=flat-square&logo=cypress&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-FF5C8A?style=flat-square&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/API_Testing-8B5CF6?style=flat-square" />
+</p>
+<br>
+<a href="https://github.com/ca-th/portfolio-qa-cypres" target="_blank">
+<img src="https://img.shields.io/badge/EXPLORAR_PROJETO-FF5C8A?style=for-the-badge&logo=github&logoColor=white" alt="Explorar Cypress" />
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<h3>✧ PontoWeb</h3>
+<p><strong>Controle de Ponto · Front-end · Supabase</strong></p>
+<p>Aplicação web para registro e acompanhamento de jornada de trabalho com interface responsiva e intuitiva.</p>
+<p>Cálculo automatizado de horas, histórico de marcações e validação de regras de jornada em tempo real.</p>
+<p>
+<img src="https://img.shields.io/badge/TypeScript-FF5C8A?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-8B5CF6?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-FF5C8A?style=flat-square&logo=vercel&logoColor=white" />
+</p>
+<br>
+<a href="https://ponto-web-ten.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/ACESSAR_PROJETO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Acessar PontoWeb" />
+</a>
+</td>
+<td width="50%" align="center" valign="top">
+<h3>✦ Sistema de Biblioteca</h3>
+<p><strong>Banco de Dados · Regras de Negócio · Integridade</strong></p>
+<p>Sistema de gerenciamento bibliotecário com regras de negócio implementadas diretamente na camada de dados.</p>
+<p>Aplicação de Triggers e Stored Procedures com foco em consistência, rastreabilidade e validação de restrições.</p>
+<p>
+<img src="https://img.shields.io/badge/SQL-8B5CF6?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Triggers_%26_Procedures-FF5C8A?style=flat-square" />
+<img src="https://img.shields.io/badge/Data_Integrity-8B5CF6?style=flat-square" />
+</p>
+<br>
+<a href="https://github.com/ca-th/Sistema-Bibliotecario-Faculdade" target="_blank">
+<img src="https://img.shields.io/badge/EXPLORAR_PROJETO-FF5C8A?style=for-the-badge&logo=github&logoColor=white" alt="Explorar Biblioteca" />
+</a>
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FF5C8A,100:8B5CF6" width="100%" height="3" alt="" /><img src="https://img.shields.io/badge/05%20%2F%20COMO%20FUNCIONA%20O%20RADAR%20ESTUDOS-8B5CF6?style=for-the-badge" alt="05 / Como funciona o Radar Estudos" />
+
+<div align="center">
+  <p><em>Duas rotas: a ingestão do plano de ensino e o tutor via Telegram.</em></p>
+</div>
+
+```mermaid
+flowchart LR
+  subgraph ING["Ingestão do plano"]
+    A["📄 Plano de ensino (PDF)"] --> B["⚙️ FastAPI"]
+    B --> C["📅 Datas e prazos"]
+    B --> D["🧩 Embeddings"]
+    C --> E[("🗄️ PostgreSQL")]
+    D --> F[("🧲 pgvector")]
+  end
+
+  subgraph TUT["Tutor por disciplina"]
+    G["💬 Telegram"] --> H["🔁 n8n"]
+    H --> I["⚙️ FastAPI"]
+    I --> F
+    F --> J["🧠 LLM"]
+    J --> H
+    H --> G
+  end
+
+  classDef rosa fill:#FF5C8A,stroke:#FF5C8A,color:#ffffff
+  classDef violeta fill:#8B5CF6,stroke:#8B5CF6,color:#ffffff
+  class B,I rosa
+  class H,J violeta
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FF5C8A,100:8B5CF6" width="100%" height="3" alt="" />
+
+<img src="https://img.shields.io/badge/06%20%2F%20EXPERI%C3%8ANCIA-8B5CF6?style=for-the-badge" alt="06 / Experiência" />
+
+<div align="center">
+
+  <br>
+
+  <h3>✦ Estagiária em Desenvolvimento com IA</h3>
+  <p><strong>SENAI/DF · Atual</strong></p>
+
+  <p>
+    Desenvolvimento assistido por IA (Cursor), validações no Supabase <br>
+    e funcionalidades inteligentes no sistema, como <strong>interação por voz</strong> <br>
+    e <strong>assistente virtual de ajuda</strong>.
+  </p>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FF5C8A,100:8B5CF6" width="100%" height="3" alt="" />
+
+<img src="https://img.shields.io/badge/07%20%2F%20CONTATO-8B5CF6?style=for-the-badge" alt="07 / Contato" />
+
+<div align="center">
+
+  <br>
+
+  <h3>✦ Vamos conversar?</h3>
+
+  <p>
+    Aberta a oportunidades e colaborações em <strong>Engenharia de IA aplicada</strong>, <br>
+    <strong>Python</strong> e <strong>Automação com n8n e Supabase</strong>.
+  </p>
+
+  <p>
+    <a href="mailto:catharinannapoleao@gmail.com">
+      <img src="https://img.shields.io/badge/EMAIL-FF5C8A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/catharina-napoleao-725709202/" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:FF5C8A,100:8B5CF6" alt="" />
+
+</div>
